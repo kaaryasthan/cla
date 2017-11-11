@@ -24,6 +24,8 @@ you have the rights needed to do so.
 
 ### What is special about this contributor license agreement?
 
-The CLA used by Kaaryasthan project is Fiduciary License Agreement which is generated from [http://contributoragreements.org](http://contributoragreements.org)
+The CLA used by Kaaryasthan project is Fiduciary License Agreement generated from [http://contributoragreements.org](http://contributoragreements.org)
 
 For more information: http://contributoragreements.org/faq.html
+
+Credits: Parts of this FAQ is adapted from [GitHub CLA FAQ](https://cla.github.com).
