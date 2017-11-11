@@ -6,6 +6,13 @@ confirm that:
 1. Anyone can use your contributions anywhere, for free, forever.
 2. Your contributions do not infringe on anyone else's rights.
 
+
+The contributor license agreement gives project maintainers assurances
+about where contributions are coming from and what rights are being
+granted along with them.
+
+**[Read the Agreement](CLA.md)**
+
 ### Why do you have to sign the contributor license agreement when contributing to Kaaryasthan project that is already under an open source license?
 
 Open source licenses serve as implicit contributor agreements.  A
