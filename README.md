@@ -1,6 +1,6 @@
 # Contributor License Agreement
 
-By signing Kaaryasthan contributor license agreement (CLA), you
+By signing [Kaaryasthan contributor license agreement](https://cla-assistant.io/kaaryasthan/contributor-license-agreement) (CLA), you
 confirm that:
 
 1. Anyone can use your contributions anywhere, for free, forever.
