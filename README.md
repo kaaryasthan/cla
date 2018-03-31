@@ -34,5 +34,3 @@ you have the rights needed to do so.
 The CLA used by Kaaryasthan project is Fiduciary License Agreement generated from [http://contributoragreements.org](http://contributoragreements.org)
 
 For more information: http://contributoragreements.org/faq.html
-
-Credits: Parts of this FAQ is adapted from [GitHub CLA FAQ](https://cla.github.com).
