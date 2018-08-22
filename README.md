@@ -20,7 +20,7 @@ formal contributor license agreement makes contribution terms explicit
 and provides the project maintainers a record of your agreement to
 those terms.
 
-Kaaryasthan project is released under the MIT license, which
+Kaaryasthan project is released under the AGPL v3+ license, which
 grants permission to use but does not expressly reference copyright or
 patent.  The contributor license agreement expressly secures copyright
 and patent grants from you.
